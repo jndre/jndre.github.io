@@ -28,7 +28,7 @@ baseurl: /      # place folder name if the site is served in a subfolder
 github_username:  jndre
 
 # Build settings
-theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
