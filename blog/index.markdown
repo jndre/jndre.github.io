@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# jndre's homepage
+
+Content coming soon, whenever I'll find the time ^^
